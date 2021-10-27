@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I play online games and go to the fishing very often.**
 
-## 🚀 Languages and Tools:</br>
+## 🚀 Languages and Tools:
 
 <h3 align="center">Frontend Development :</h3>
 <p align="center"> 
